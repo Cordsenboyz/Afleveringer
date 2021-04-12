@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\niels\\source\\repos\\Reaction Game\\OOP Opgaver\\OOP Opgaver.csproj": {}
+    "C:\\Users\\niels\\Source\\Repos\\Afleveringer\\Reaction Game\\OOP Opgaver\\OOP Opgaver.csproj": {}
   },
   "projects": {
-    "C:\\Users\\niels\\source\\repos\\Reaction Game\\OOP Opgaver\\OOP Opgaver.csproj": {
+    "C:\\Users\\niels\\Source\\Repos\\Afleveringer\\Reaction Game\\OOP Opgaver\\OOP Opgaver.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\niels\\source\\repos\\Reaction Game\\OOP Opgaver\\OOP Opgaver.csproj",
+        "projectUniqueName": "C:\\Users\\niels\\Source\\Repos\\Afleveringer\\Reaction Game\\OOP Opgaver\\OOP Opgaver.csproj",
         "projectName": "OOP Opgaver",
-        "projectPath": "C:\\Users\\niels\\source\\repos\\Reaction Game\\OOP Opgaver\\OOP Opgaver.csproj",
+        "projectPath": "C:\\Users\\niels\\Source\\Repos\\Afleveringer\\Reaction Game\\OOP Opgaver\\OOP Opgaver.csproj",
         "packagesPath": "C:\\Users\\niels\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\niels\\source\\repos\\Reaction Game\\OOP Opgaver\\obj\\",
+        "outputPath": "C:\\Users\\niels\\Source\\Repos\\Afleveringer\\Reaction Game\\OOP Opgaver\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\niels\\AppData\\Roaming\\NuGet\\NuGet.Config",

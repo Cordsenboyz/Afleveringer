@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\niels\\source\\repos\\Reaction Game\\Reaction Game\\Reaction Game.csproj",
+      "projectUniqueName": "C:\\Users\\niels\\Source\\Repos\\Afleveringer\\Reaction Game\\Reaction Game\\Reaction Game.csproj",
       "projectName": "Reaction Game",
-      "projectPath": "C:\\Users\\niels\\source\\repos\\Reaction Game\\Reaction Game\\Reaction Game.csproj",
+      "projectPath": "C:\\Users\\niels\\Source\\Repos\\Afleveringer\\Reaction Game\\Reaction Game\\Reaction Game.csproj",
       "packagesPath": "C:\\Users\\niels\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\niels\\source\\repos\\Reaction Game\\Reaction Game\\obj\\",
+      "outputPath": "C:\\Users\\niels\\Source\\Repos\\Afleveringer\\Reaction Game\\Reaction Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\niels\\AppData\\Roaming\\NuGet\\NuGet.Config",
